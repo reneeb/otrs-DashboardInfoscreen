@@ -1,0 +1,21 @@
+=head1 NAME
+
+DashboardInfoscreen
+
+=head1 DESCRIPTION
+
+If you want to use the dashboard as an infoscreen, the sidebar is not necessary. For that
+this add on exists. Every user can set an option in the preferences to hide the sidebar.
+
+=head1 BUGTRACKER AND CODE REPOSITORY
+
+The bugtracker and the code repository are available at
+L<http://github.com/reneeb/otrs-DashboardInfoscreen>
+
+=head1 AUTHOR AND LICENCE
+
+This package was written by Renee Baecker E<lt>otrs@perl-services.deE<gt>.
+
+The package is licensed unter AGPL. If you
+did not receive this file, see L<http://www.gnu.org/licenses/agpl.txt>.
+
