@@ -2,7 +2,7 @@
 <otrs_config version="1.0" init="Application">
     <ConfigItem Name="Frontend::Output::FilterContent###OutputFilterDashboardHideSidebar" Required="0" Valid="1">
         <Description Translatable="1">Change ticket mask.</Description>
-        <Group>MinatiCore</Group>
+        <Group>DashboardInfoscreen</Group>
         <SubGroup>OutputFilter</SubGroup>
         <Setting>
             <Hash>
