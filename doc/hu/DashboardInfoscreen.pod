@@ -1,0 +1,28 @@
+=encoding utf-8
+
+=head1 NÉV
+
+DashboardInfoscreen - az oldalsáv elrejtése a vezérlőpulton
+
+=head1 LEÍRÁS
+
+Ha információs képernyőként szeretné használni a vezérlőpultot, akkor az 
+oldalsáv nem szükséges. Ezért jött létre ez a kiegészítő. Minden felhasználó 
+beállíthat egy olyan lehetőséget a beállításaiban, hogy elrejtse az oldalsávot.
+
+=head1 KÓDTÁROLÓ ÉS HIBAKÖVETŐ
+
+A kódtároló és a hibakövető a L<https://github.com/reneeb/otrs-DashboardInfoscreen> 
+címen érhető el.
+
+=head1 SZERZŐ ÉS LICENC
+
+Ezt a csomagot Renée Bäcker E<lt>otrs@perl-services.deE<gt> írta.
+
+A csomag az AGPL 3.0 feltételei szerint licencelt. Ha nem kapta meg ezt a 
+fájlt, akkor elolvashatja a L<http://www.gnu.org/licenses/agpl.txt> címen.
+
+=head1 MAGYAR FORDÍTÁS
+
+A magyar fordítást az OTRS-megoldások csapata készítette.
+Copyright (C) 2016 Úr Balázs, L<http://otrs-megoldasok.hu>

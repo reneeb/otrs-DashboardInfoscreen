@@ -1,17 +1,18 @@
 {
     "name": "DashboardInfoscreen",
-    "version": "5.0.1",
+    "version": "5.0.2",
     "framework": [
         "4.0.x",
         "5.0.x"
     ],
     "vendor": {
-        "name":  "Perl-Services.de",
+        "name": "Perl-Services.de",
         "url": "http://www.perl-services.de"
     },
     "license": "GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007",
     "description" : {
-        "en": "Allow users to hide the sidebar in the dashboard",
-        "de": "Erlaube es den Benutzern, die Seitenleiste im Dashboard zu verstecken"
+        "en": "Allow users to hide the sidebar in the dashboard.",
+        "de": "Erlaube es den Benutzern, die Seitenleiste im Dashboard zu verstecken.",
+        "hu": "Lehetővé teszi a felhasználóknak az oldalsáv elrejtését a vezérlőpulton."
     }
 }
