@@ -1,6 +1,6 @@
 =head1 NAME
 
-DashboardInfoscreen
+DashboardInfoscreen - hide the sidebar in the dashboard
 
 =head1 DESCRIPTION
 
@@ -10,12 +10,12 @@ this add on exists. Every user can set an option in the preferences to hide the 
 =head1 BUGTRACKER AND CODE REPOSITORY
 
 The bugtracker and the code repository are available at
-L<http://github.com/reneeb/otrs-DashboardInfoscreen>
+L<https://github.com/reneeb/otrs-DashboardInfoscreen>
 
 =head1 AUTHOR AND LICENCE
 
 This package was written by Renee Baecker E<lt>otrs@perl-services.deE<gt>.
 
-The package is licensed unter AGPL. If you
+The package is licensed unter AGPL 3.0. If you
 did not receive this file, see L<http://www.gnu.org/licenses/agpl.txt>.
 

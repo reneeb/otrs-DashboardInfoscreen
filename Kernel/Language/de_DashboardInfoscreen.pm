@@ -1,6 +1,6 @@
 # --
-# Kernel/Language/de_DashboardInfoscreen.pm - the german translation of DashboardInfoscreen
-# Copyright (C) 2015 Perl-Services, http://www.perl-services.de
+# Kernel/Language/de_DashboardInfoscreen.pm - the German translation of DashboardInfoscreen
+# Copyright (C) 2015 - 2016 Perl-Services, http://www.perl-services.de
 # --
 # This software comes with ABSOLUTELY NO WARRANTY. For details, see
 # the enclosed file COPYING for license information (AGPL). If you
@@ -14,18 +14,16 @@ use warnings;
 
 use utf8;
 
-our $VERSION = '0.01';
-
 sub Data {
     my $Self = shift;
 
-    my $Lang = $Self->{Translation};
+    my $Lang = $Self->{Translation} || {};
 
-    return if ref $Lang ne 'HASH';
-
-    $Lang->{'Hide Sidebar (Dashboard)'} = 'Dashboard-Seitenleiste verstecken';
-
-    return 1;
+    # Kernel/Config/Files/DashboardInfoscreen.xml
+    $Lang->{'Change ticket mask.'} = '';
+    $Lang->{'Defines the config parameters of this item, to be shown in the preferences view.'} = '';
+    $Lang->{'Hide Sidebar in Dashboard'} = 'Dashboard-Seitenleiste verstecken';
+    $Lang->{'Hide Sidebar'} = 'Seitenleiste verstecken';
 }
 
 1;
