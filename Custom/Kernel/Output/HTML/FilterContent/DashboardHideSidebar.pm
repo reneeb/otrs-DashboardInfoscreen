@@ -1,6 +1,5 @@
 # --
-# Kernel/Output/HTML/FilterContent/DashboardHideSidebar.pm
-# Copyright (C) 2015-2016 Perl-Services.de, http://www.perl-services.de/
+# Copyright (C) 2015-2018 Perl-Services.de, http://www.perl-services.de/
 # --
 # This software comes with ABSOLUTELY NO WARRANTY. For details, see
 # the enclosed file COPYING for license information (AGPL). If you
