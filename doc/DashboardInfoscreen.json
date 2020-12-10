@@ -14,5 +14,8 @@
         "en": "Allow users to hide the sidebar in the dashboard.",
         "de": "Erlaube es den Benutzern, die Seitenleiste im Dashboard zu verstecken.",
         "hu": "Lehetővé teszi a felhasználóknak az oldalsáv elrejtését a vezérlőpulton."
-    }
+    },
+    "exclude_files" : [
+        "doc/DashboardInfoscreen.json"
+    ]
 }

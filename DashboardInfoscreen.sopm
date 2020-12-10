@@ -15,7 +15,6 @@
         <File Permission="644" Location="Kernel/Config/Files/XML/DashboardInfoscreen.xml" />
         <File Permission="644" Location="Kernel/Language/de_DashboardInfoscreen.pm" />
         <File Permission="644" Location="Kernel/Language/hu_DashboardInfoscreen.pm" />
-        <File Permission="644" Location="doc/DashboardInfoscreen.json" />
         <File Permission="644" Location="doc/en/DashboardInfoscreen.pod" />
         <File Permission="644" Location="doc/hu/DashboardInfoscreen.pod" />
     </Filelist>
